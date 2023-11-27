@@ -1,4 +1,6 @@
 Frontend Assignment by Quicksell
+Hosted Link = https://65645642e348be18864d51ff--lighthearted-maamoul-db9034.netlify.app/
+
 ![1](https://github.com/shoaib-coder-786/kanban_board/assets/81517359/935d4097-c145-4373-99ff-8e01506aac8f)
 ![2](https://github.com/shoaib-coder-786/kanban_board/assets/81517359/5d84da7a-9949-46da-a653-5028e79d3e30)
 
