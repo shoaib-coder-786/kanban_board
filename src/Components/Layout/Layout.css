@@ -1,0 +1,61 @@
+.layoutContainer {
+    width: 350px;
+    padding: 10px;
+    /* display: flex; */
+}
+.layout_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.layout_details {
+    display: flex;
+    align-items: center;
+    /* border: 2px solid; */
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+.layout_title {
+    color: #000000;
+    font-family: sans-serif;
+    margin:0 5px;
+}
+.layout_data_len {
+    color: gray;
+}
+.icon_container .layout_icons {
+    font-size: 20px;
+}
+.layout_options {
+    cursor: pointer;
+}
+.user_Icon {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: gray;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.user_Icon .user_name {
+    color: white;
+    font-weight: 600;
+    font-family: system-ui;
+    font-size: 13px;
+}
+.status {
+    width: 7px;
+    height: 7px;
+    background: green;
+    position: absolute;
+    right: 0px;
+    bottom: 0;
+    border-radius: 50%;
+}
+@media screen and (max-width:1163px){
+    .layoutContainer {
+    width: 100%;}
+}
